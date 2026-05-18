@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "contracts/agentic-escrow",
+]
+resolver = "2"
+
+[profile.release]
+overflow-checks = true

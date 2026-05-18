@@ -1,0 +1,2 @@
+[target.wasm32v1-none]
+rustflags = ["--remap-path-prefix=C:/Users/USER/.cargo/registry/src="]
